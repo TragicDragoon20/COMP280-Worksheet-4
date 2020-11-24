@@ -1,1 +1,1 @@
-# MiracleJam
+Fork me, as the base repo for your worksheet
